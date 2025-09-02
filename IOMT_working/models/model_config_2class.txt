@@ -1,0 +1,16 @@
+Model Configuration:
+Class Config: 2
+Features: 20
+Epochs: 40
+Batch Size: 128
+Input Shape: (20, 1)
+Classes: ['Benign' 'attack']
+
+Final Results:
+Accuracy: 0.5093
+Precision: 0.7272
+Recall: 0.5093
+F1-Score: 0.3545
+
+Best Threshold: 0.8
+Balanced Score: 0.7516
